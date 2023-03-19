@@ -3,8 +3,8 @@ import { NavLink, useHistory } from "react-router-dom";
 
 const linkStyles = {
   width: "100px",
-  padding: "12px",
-  margin: "0 6px 6px",
+  padding: "6px",
+  margin: "0 10px 10px",
   background: "blue",
   textDecoration: "none",
   color: "white",
